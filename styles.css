@@ -1,0 +1,250 @@
+#start {
+  background-color: #7D9D9C;
+  margin: 20px;
+}
+
+.start-img {
+  width: 53%;
+  border-radius: 100%;
+  margin: 15px;
+  padding-top: 5%;
+
+}
+
+.h1-start {
+  padding-top: 15%;
+  padding-left: 6%;
+  font-family: "Lato";
+  font-weight: 600;
+  color: white;
+  font-size: 3rem;
+  line-height: 1.5;
+  text-align: left;
+}
+
+.h3-start {
+  padding-top: 5%;
+  padding-left: 6%;
+  font-family: "Noto Sans";
+  font-weight: 500;
+  color: white;
+  text-align: left;
+}
+
+.container-fluid {
+  padding: 3% 15% 9%;
+}
+
+.navbar {
+  padding: 0 0 4.5rem;
+}
+
+.navbar-brand {
+  font-family: 'Lato';
+  font-size: 500px;
+  font-weight: bold;
+}
+
+.nav-item {
+  padding: 0 10px;
+}
+
+.nav-link {
+  font-size: 1.2rem;
+}
+
+#aboutme {
+  background-color: #E4DCCF;
+  padding: 10%;
+  padding-top: 40;
+text-align: center;
+}
+
+.h2-about{
+font-family:  "Lato";
+
+color: #576F72 ;
+font-size: 2.5rem;
+font-weight: bold;
+padding-bottom: 3%;
+}
+
+.icon-about{
+  color: #7D9D9C;
+
+}
+.icon-about:hover{
+  color: #576F72;
+
+}
+
+
+.p-about {
+    font-family: "Noto Sans";
+    color: #576F72 ;
+    padding-top: 3.6%;
+    font-size: 1.3rem;
+}
+
+
+#footer {
+  text-align: center;
+ padding: 4% 4% 1%;
+ background-color: #F0EBE3;
+}
+
+.social-icon{
+  color: #7D9D9C ;
+  margin: 5% 2%;
+
+}
+
+.social-icon:hover {
+  color: #576F72;
+}
+
+.cr{
+  font-family: "Noto Sans";
+  color: #576F72 ;
+
+}
+
+
+.h1-start1 {
+  padding-top: 8%;
+  padding-left: 6%;
+  font-family: "Lato";
+  font-weight: 600;
+  color: white;
+  font-size: 3rem;
+  line-height: 1.5;
+  text-align: center;
+}
+
+.card-text{
+  font-size: 1rem;
+  font-family: "Lato";
+}
+
+.h3-start1 {
+  padding-top: 6%;
+  padding-left: 6%;
+  font-family: "Noto Sans";
+  font-weight: 500;
+  color: white;
+  text-align: center;
+}
+#start-1 {
+  background-color: #7D9D9C;
+  margin: 20px;
+  padding-bottom: 7%;
+}
+
+#blogpost {
+  padding: 7% 10% 10%;
+background-color: #E4DCCF;
+text-align: center;
+}
+/* .button {
+  border: none;
+  color: white;
+
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 65px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+
+}
+
+
+.button:active {
+    outline: none;
+  }
+
+  .button1:active {
+      outline: none;
+    }
+
+
+
+.button1 {
+outline: none;
+  background-color: white;
+  color: black;
+  border: 2px solid #7D9D9C;
+}
+
+.button1:hover {
+  background-color: #E4DCCF;
+  color: white; */
+
+
+.card-text{
+  text-align: center;
+  font-weight: bold;
+}
+
+
+body{
+background-color: #7D9D9C;
+
+}
+
+#start2 {
+background-color:  #7D9D9C ;
+margin : 15px;
+}
+
+.p-nasa {
+  padding-top: 6%;
+  padding-left: 6%;
+  font-family: "Lato";
+  font-weight: 500;
+  color: white;
+  text-align: center;
+  font-size: 2.5rem;
+}
+
+#blogpost-nasa {
+  background-color: #F0EBE3;
+  padding: 10% 10% 3%;
+  margin: 15px;
+}
+
+.p-writing1 {
+  color: #576F72;
+ padding: 9%;
+ font-family: "Noto Sans";
+ font-size: 1.1rem;
+}
+
+
+  .nasacard{
+    padding-left: 300px;
+
+}
+
+
+
+#comments {
+  background-color:  #E4DCCF;
+  margin : 15px;
+text-align: center;
+}
+
+.googleform {
+  text-align: center;
+  padding-right: 90%;
+}
+
+#footer1{text-align: center;
+ padding: 4% 4% 1%;
+ background-color: #F0EBE3; margin: 15px 15px 0px;}
+
+ .spreadsheet {
+   padding-top: 9%;
+ }
